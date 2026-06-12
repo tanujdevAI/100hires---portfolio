@@ -8,7 +8,7 @@
 Portfolio project for 100Hires application
 # 100Hires Portfolio Project — Tanuj Jain
 
-**Applicant:** Tanuj Jain (GitHub: Tanuj Developer AI)
+**Applicant:** Tanuj Jain (GitHub: tanujdevAI)
 **Deadline:** 48 hours
 **Status:** ✅ Completed
 

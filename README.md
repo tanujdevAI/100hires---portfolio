@@ -3,8 +3,6 @@
 > gathered through real trial and error while completing this task.
 > I used Claude AI to help me **refine the language and structure** of this text,
 > and to format it properly using Markdown so it displays clearly on GitHub.
-> Being transparent about using AI tools is, I believe, itself a relevant skill
-> for any role in a modern AI-forward company.
 
 # 100hires---portfolio
 Portfolio project for 100Hires application

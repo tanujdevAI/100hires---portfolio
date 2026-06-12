@@ -66,7 +66,7 @@ by **openai** — again choosing the official publisher. Successfully installed.
 
 ---
 
-## What I Learned About These Tools
+## Tools Installed and What I Learned About These Tools
 
 **GitHub** — A platform for hosting and sharing code. Developers use it to 
 collaborate, track changes, and show their work to potential employers. 
